@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leovanhaaren&label=Profile%20views&color=0e75b6&style=flat" alt="leovanhaaren" /> </p>
 
-<p align="center">🔭 I’m currently working on Remindle: https://github.com/remindle</p>
+<h2 align="center">🚀 I’m currently working on Remindle: 🚀<br/>https://github.com/remindle<br/> go check it out!</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
