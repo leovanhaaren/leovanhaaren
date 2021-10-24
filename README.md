@@ -5,7 +5,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leovanhaaren&label=Profile%20views&color=0e75b6&style=flat" alt="leovanhaaren" /> </p>
 
-<h2 align="center">🚀 I’m currently working on Remindle: 🚀<br/>https://github.com/remindle<br/> go check it out!</p>
+
+
+<p align="center">
+    <a href="https://github.com/remindle" target="_blank"><img src="https://raw.githubusercontent.com/remindle/assets/main/logo/SVG/Logo_bleed.svg" width="200"></a>
+</p>
+<p align="center">🚀 I’m currently working on Remindle 🚀</p>
+<h2 align="center">https://github.com/remindle<br/> go check it out!</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
